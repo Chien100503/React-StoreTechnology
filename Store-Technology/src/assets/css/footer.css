@@ -1,0 +1,242 @@
+*** footer
+*/
+footer {
+    display: inline-block;
+    margin-top: 1.5rem;
+    width: 100%;
+    height: auto;
+    border-top: 4px solid var(--main-color);
+}
+
+.footer-top {
+    width: 1300px;
+    height: auto;
+    padding: 2.5rem 0;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.footer-tp__item {
+    display: flex;
+    flex-direction: column;
+    font-family: var(--ff-ss);
+}
+
+.footer-tp__item a {
+    margin-top: 10px;
+    font-size: 1rem;
+    font-weight: 400;
+    color: var(--gray);
+    cursor: pointer;
+}
+
+.footer-tp__vid {
+    margin-top: 10px;
+}
+
+.footer-tp__vid p {
+    font-size: 1rem;
+    font-weight: 400;
+    color: var(--gray);
+}
+
+.footer-tp__vid a {
+    font-size: 1rem;
+    font-weight: 400;
+    color: var(--blue);
+}
+
+.footer-tp__item a:hover,
+.footer-tp__vid a:hover {
+    color: var(--main-color);
+}
+
+.footer-below {
+    width: 100%;
+    height: auto;
+    padding: 1.5rem 2%;
+    background: #f8f8f8;
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+.footer-bl__item {
+    padding-right: 2.5rem;
+    font-family: var(--ff-ss);
+}
+
+.footer-bl__item h3 {
+    margin-bottom: 10px;
+}
+
+.footer-bl__item p {
+    margin-bottom: 10px;
+    font-size: .9rem;
+    font-weight: 400;
+    color: var(--dark);
+}
+
+
+/*
+    *** back to top
+*/
+.back-to-top {
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    z-index: 500;
+    width: 40px;
+    height: 40px;
+    border-radius: 6px;
+    background: var(--main-color);
+    text-align: center;
+    line-height: 45px;
+    color: var(--light);
+    font-size: 1.4rem;
+    cursor: pointer;
+    transition: var(--ts-0-3);
+    display: none;
+}
+
+.back-to-top:hover {
+    background: var(--main-hover);
+}
+
+
+.filter-wrap {
+    width: 100%;
+    display: inline-block;
+}
+/*
+    *** filter-search
+*/
+.filter-search {
+    float: left;
+    width: 20%;
+    height: auto;
+}
+.filter-se__title {
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    border-bottom: 1px solid #ddd;
+    font-family: var(--ff-ss);
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--gray-dark);
+}
+.filter-se__list {
+    width: 100%;
+    height: auto;
+    padding: 1rem 0;
+}
+.filter-se__item {
+    width: 100%;
+    height: auto;
+    margin-bottom: .8rem;
+}
+.filter-se__drop {
+    font-family: var(--ff-ss);
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--gray-dark);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: transparent;
+    width: 100%;
+    height: 40px;
+    border-bottom: 1px solid #f3f3f3;
+    cursor: pointer;
+    transition: var(--ts-0-3);
+}
+.filter-se__item nav {
+    width: 100%;
+    height: auto;
+    display: none;
+}
+.filter-se__item nav.drop {
+    display: block;
+}
+.filter-se__box {
+    width: 100%;
+    height: 30px;
+    line-height: 30px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+.filter-check {
+    cursor: pointer;
+}
+.filter-se__box span {
+    font-family: var(--ff-ss);
+    font-size: .95rem;
+    font-weight: 400;
+    color: var(--dark);
+    margin-left: 10px;
+}
+.filter-se__box:hover span {
+    color: var(--main-color);
+}
+
+
+/*
+    *** filter-list
+*/
+.filter-nav {
+    float: right;
+    width: 78%;
+    height: auto;
+}
+.filter-header {
+    width: 100%;
+    height: 60px;
+    background: #f3f3f3;
+    margin: 1rem 0;
+    display: flex;
+    align-items: center;
+    padding-left: 6px;
+}
+.filter-header p {
+    text-transform: uppercase;
+    font-family: var(--ff-ss);
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--dark);
+}
+.filter-hd__button {
+    height: 40px;
+    line-height: 30px;
+    padding: 0 10px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 10px;
+    background: var(--white);
+    color: var(--dark);
+    font-family: var(--ff-ss);
+    font-size: .8rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: var(--ts-0-3);
+}
+.filter-hd__active {
+    background: var(--main-color);
+    color: var(--white);
+}
+.filter-hd__button:hover {
+    background: var(--main-color);
+    color: var(--white);
+}
+.filter-list {
+    width: 100%;
+    height: auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+}
+.filter-item {
+    width: 238px;
+    height: 320px;
+    padding: 10px;
+}

@@ -1,0 +1,542 @@
+[
+    {
+        "id": 1,
+        "name_product": "Tủ lạnh Toshiba Inverter 180 lít GR-B22VU(UKG)",
+        "code_product": "GR-B22VU",
+        "trademark": "Toshiba",
+        "image_product": [
+            {
+                "image_1": "product_1a.png"
+            },
+            {
+                "image_2": "product_1b.png"
+            },
+            {
+                "image_3": "product_1c.png"
+            },
+            {
+                "image_4": "product_1d.png"
+            },
+            {
+                "image_5": "product_1e.png"
+            }
+        ],
+        "price_new": "5490000",
+        "price_old": "5890000",
+        "reduce": "-13%",
+        "category": "Tủ lạnh",
+        "date": "05/06/2023",
+        "data-category": 1,
+        "data-trademark": 6
+    },
+    {
+        "id": 2,
+        "name_product": "Google Tivi QLED TCL 4K 55 inch 55C735",
+        "code_product": "55C735",
+        "trademark": "TCL (Telephone Communication Limited)",
+        "image_product": [
+            {
+                "image_1": "product_2a.png"
+            },
+            {
+                "image_2": "product_2b.png"
+            },
+            {
+                "image_3": "product_3c.png"
+            },
+            {
+                "image_4": "product_2d.png"
+            },
+            {
+                "image_5": "product_2e.png"
+            }
+        ],
+        "price_new": "12490000",
+        "price_old": "15590000₫",
+        "reduce": "-19%",
+        "category": "Tivi",
+        "date": "06/06/2023",
+        "data-category": 1,
+        "data-trademark": 6
+    },
+    {
+        "id": 3,
+        "name_product": "Máy giặt LG Inverter 10 kg FV1410S3B lồng ngang",
+        "code_product": "FV1410S3B",
+        "trademark": "LG",
+        "image_product": [
+            {
+                "image_1": "product_3a.png"
+            },
+            {
+                "image_2": "product_3b.png"
+            },
+            {
+                "image_3": "product_3c.png"
+            },
+            {
+                "image_4": "product_3d.png"
+            },
+            {
+                "image_5": "product_3e.png"
+            }
+        ],
+        "price_new": "12490000",
+        "price_old": "18590000",
+        "reduce": "-32%",
+        "category": "Máy giặt",
+        "date": "08/06/2023",
+        "data-category": 1,
+        "data-trademark": 6
+    },
+    {
+        "id": 4,
+        "name_product": "Lò vi sóng Sharp R-370VN-S 23 lít",
+        "code_product": "R-370VN-S",
+        "trademark": "Sharp",
+        "image_product": [
+            {
+                "image_1": "product_4a.png"
+            },
+            {
+                "image_2": "product_4b.png"
+            },
+            {
+                "image_3": "product_4c.png"
+            },
+            {
+                "image_4": "product_4d.png"
+            },
+            {
+                "image_5": "product_4e.png"
+            }
+        ],
+        "price_new": "2090000",
+        "price_old": "2590000",
+        "reduce": "-16%",
+        "category": "Gia dụng",
+        "date": "05/06/2023",
+        "data-category": 1,
+        "data-trademark": 6
+    },
+    {
+        "id": 5,
+        "name_product": "Máy lọc không khí Coway AP-1018F",
+        "code_product": "AP-1018F",
+        "trademark": "Coway",
+        "image_product": [
+            {
+                "image_1": "product_5a.png"
+            },
+            {
+                "image_2": "product_5b.png"
+            },
+            {
+                "image_3": "product_5c.png"
+            },
+            {
+                "image_4": "product_5d.png"
+            },
+            {
+                "image_5": "product_5e.png"
+            }
+        ],
+        "price_new": "12590000",
+        "price_old": "16400000",
+        "reduce": "-23%",
+        "category": "Máy lọc không khí",
+        "date": "07/06/2023",
+        "data-category": 1,
+        "data-trademark": 6
+    },
+    {
+        "id": 6,
+        "name_product": "Máy in HP LaserJet M211d 9YF82A - in đảo mặt",
+        "code_product": "M211d-9YF82A",
+        "trademark": "HP (Hewlett-Packard)",
+        "image_product": [
+            {
+                "image_1": "product_6a.png"
+            },
+            {
+                "image_2": "product_6b.png"
+            },
+            {
+                "image_3": "product_6c.png"
+            },
+            {
+                "image_4": "product_6d.png"
+            },
+            {
+                "image_5": "product_6e.png"
+            }
+        ],
+        "price_new": "3790000",
+        "price_old": "4090000",
+        "reduce": "-12%",
+        "category": "Văn phòng",
+        "date": "12/06/2023",
+        "data-category": 1,
+        "data-trademark": 6
+    },
+    {
+        "id": 7,
+        "name_product": "Tủ lạnh Aqua Inverter 456 lít AQR-IGW525EM(GB)",
+        "code_product": "AQR-IGW525EM",
+        "trademark": "Aqua",
+        "image_product": [
+            {
+                "image_1": "product_7a.png"
+            },
+            {
+                "image_2": "product_7b.png"
+            },
+            {
+                "image_3": "product_7c.png"
+            },
+            {
+                "image_4": "product_7d.png"
+            },
+            {
+                "image_5": "product_7e.png"
+            }
+        ],
+        "price_new": "17990000",
+        "price_old": "24990000",
+        "reduce": "-28%",
+        "category": "Tủ lạnh",
+        "date": "25/06/2023",
+        "data-category": 1,
+        "data-trademark": 6
+    },
+    {
+        "id": 8,
+        "name_product": "Nồi cơm điện tử cao tần Sharp 1.8 lít KS-IH190V-BK/KS-IH191V-BK",
+        "code_product": "KS-IH190V-BK",
+        "trademark": "Sharp",
+        "image_product": [
+            {
+                "image_1": "product_8a.png"
+            },
+            {
+                "image_2": "product_8b.png"
+            },
+            {
+                "image_3": "product_8c.png"
+            },
+            {
+                "image_4": "product_8d.png"
+            },
+            {
+                "image_5": "product_8e.png"
+            }
+        ],
+        "price_new": "1190000",
+        "price_old": "2090000",
+        "reduce": "-34%",
+        "category": "Gia dụng",
+        "date": "06/06/2023",
+        "data-category": 1,
+        "data-trademark": 6
+    },
+    {
+        "id": 9,
+        "name_product": "Máy lọc nước RO nóng lạnh Karofi KAD-D50 10 lõi",
+        "code_product": "KAD-D50",
+        "trademark": "Karofi",
+        "image_product": [
+            {
+                "image_1": "product_9a.png"
+            },
+            {
+                "image_2": "product_9b.png"
+            },
+            {
+                "image_3": "product_9c.png"
+            },
+            {
+                "image_4": "product_9d.png"
+            },
+            {
+                "image_5": "product_9e.png"
+            }
+        ],
+        "price_new": "2620000",
+        "price_old": "3090000",
+        "reduce": "-17%",
+        "category": "Gia dụng",
+        "date": "08/06/2023",
+        "data-category": 1,
+        "data-trademark": 6
+    },
+    {
+        "id": 10,
+        "name_product": "Bình nóng lạnh Ferroli Verdi-TE 15",
+        "code_product": "VERDI-TE",
+        "trademark": "Ferroli",
+        "image_product": [
+            {
+                "image_1": "product_10a.png"
+            },
+            {
+                "image_2": "product_10b.png"
+            },
+            {
+                "image_3": "product_10c.png"
+            },
+            {
+                "image_4": "product_10d.png"
+            },
+            {
+                "image_5": "product_10e.png"
+            }
+        ],
+        "price_new": "2650000",
+        "price_old": "3790000",
+        "reduce": "-21%",
+        "category": "Máy lạnh",
+        "date": "05/06/2023",
+        "data-category": 1,
+        "data-trademark": 6
+    },
+    {
+        "id": 11,
+        "name_product": "Loa tháp Samsung MX-T50/XV",
+        "code_product": "MX-T50/XV",
+        "trademark": "Samsung",
+        "image_product": [
+            {
+                "image_1": "product_11a.png"
+            },
+            {
+                "image_2": "product_11b.png"
+            },
+            {
+                "image_3": "product_11c.png"
+            },
+            {
+                "image_4": "product_11d.png"
+            },
+            {
+                "image_5": "product_11e.png"
+            }
+        ],
+        "price_new": "4990000",
+        "price_old": "7990000",
+        "reduce": "-30%",
+        "category": "Loa",
+        "date": "22/06/2023",
+        "data-category": 1,
+        "data-trademark": 6
+    },
+    {
+        "id": 12,
+        "name_product": "Máy xay sinh tố Philips HR2221",
+        "code_product": "HR2221",
+        "trademark": "Philips",
+        "image_product": [
+            {
+                "image_1": "product_12a.png"
+            },
+            {
+                "image_2": "product_12b.png"
+            },
+            {
+                "image_3": "product_12c.png"
+            },
+            {
+                "image_4": "product_12d.png"
+            },
+            {
+                "image_5": "product_12e.png"
+            }
+        ],
+        "price_new": "999000",
+        "price_old": "1470000",
+        "reduce": "-32%",
+        "category": "Gia dụng",
+        "date": "12/06/2023",
+        "data-category": 1,
+        "data-trademark": 6
+    },
+    {
+        "id": 13,
+        "name_product": "Tủ đông Sanaky 280 lít VH-3899KB",
+        "code_product": "VH-3899KB",
+        "trademark": "Sanaky",
+        "image_product": [
+            {
+                "image_1": "product_13a.png"
+            },
+            {
+                "image_2": "product_13b.png"
+            },
+            {
+                "image_3": "product_13c.png"
+            },
+            {
+                "image_4": "product_13d.png"
+            },
+            {
+                "image_5": "product_13e.png"
+            }
+        ],
+        "price_new": "10490000",
+        "price_old": "11200000",
+        "reduce": "-6%",
+        "category": "Tủ đông",
+        "date": "01/06/2023",
+        "data-category": 1,
+        "data-trademark": 6
+    },
+    {
+        "id": 14,
+        "name_product": "Máy giặt Aqua 8 kg AQW-KS80GT S lồng đứng",
+        "code_product": "AQW-KS80GT",
+        "trademark": "Aqua",
+        "image_product": [
+            {
+                "image_1": "product_14a.png"
+            },
+            {
+                "image_2": "product_14b.png"
+            },
+            {
+                "image_3": "product_14c.png"
+            },
+            {
+                "image_4": "product_14d.png"
+            },
+            {
+                "image_5": "product_14e.png"
+            }
+        ],
+        "price_new": "4590000",
+        "price_old": "4990000",
+        "reduce": "-8%",
+        "category": "Máy giặt",
+        "date": "05/06/2023",
+        "data-category": 1,
+        "data-trademark": 6
+    },
+    {
+        "id": 15,
+        "name_product": "Loa Bluetooth LG Xboom Go PK5",
+        "code_product": "PK5",
+        "trademark": "LG",
+        "image_product": [
+            {
+                "image_1": "product_15a.png"
+            },
+            {
+                "image_2": "product_15b.png"
+            },
+            {
+                "image_3": "product_15c.png"
+            },
+            {
+                "image_4": "product_15d.png"
+            },
+            {
+                "image_5": "product_15e.png"
+            }
+        ],
+        "price_new": "1990000",
+        "price_old": "3790000",
+        "reduce": "-27%",
+        "category": "Loa",
+        "date": "07/06/2023",
+        "data-category": 1,
+        "data-trademark": 6
+    },
+    {
+        "id": 16,
+        "name_product": "Máy in phun màu Canon Pixma G2010 - in phun mực liên tục, copy, scan",
+        "code_product": "G2010",
+        "trademark": "Canon",
+        "image_product": [
+            {
+                "image_1": "product_16a.png"
+            },
+            {
+                "image_2": "product_16b.png"
+            },
+            {
+                "image_3": "product_16c.png"
+            },
+            {
+                "image_4": "product_16d.png"
+            },
+            {
+                "image_5": "product_16e.png"
+            }
+        ],
+        "price_new": "3190000",
+        "price_old": "3290000",
+        "reduce": "-2%",
+        "category": "Văn phòng",
+        "date": "07/06/2023",
+        "data-category": 1,
+        "data-trademark": 6
+    },
+    {
+        "id": 17,
+        "name_product": "Máy lọc không khí Philips AC0820",
+        "code_product": "AC0820",
+        "trademark": "Philips",
+        "image_product": [
+            {
+                "image_1": "product_17a.png"
+            },
+            {
+                "image_2": "product_17b.png"
+            },
+            {
+                "image_3": "product_17c.png"
+            },
+            {
+                "image_4": "product_17d.png"
+            },
+            {
+                "image_5": "product_17e.png"
+            }
+        ],
+        "price_new": "3390000",
+        "price_old": "4400000",
+        "reduce": "-11%",
+        "category": "Máy lọc không khí",
+        "date": "05/06/2023",
+        "data-category": 1,
+        "data-trademark": 6
+    },
+    {
+        "id": 18,
+        "name_product": "Điều hòa Sharp 1 chiều Inverter AH-X9XEW",
+        "code_product": "AH-X9XEW",
+        "trademark": "Sharp",
+        "image_product": [
+            {
+                "image_1": "product_18a.png"
+            },
+            {
+                "image_2": "product_18b.png"
+            },
+            {
+                "image_3": "product_18c.png"
+            },
+            {
+                "image_4": "product_18d.png"
+            },
+            {
+                "image_5": "product_18e.png"
+            }
+        ],
+        "price_new": "8590000",
+        "price_old": "9400000",
+        "reduce": "-9%",
+        "category": "Máy lạnh",
+        "date": "28/06/2023",
+        "data-category": 1,
+        "data-trademark": 6
+    }
+]
