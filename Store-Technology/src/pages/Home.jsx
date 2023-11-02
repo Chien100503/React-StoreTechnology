@@ -1,6 +1,7 @@
 import Header from "../components/header";
 import Body from "../components/body";
 import Footer from "../components/Footer";
+import BackTop from "../components/BackTop";
 
 function Home() {
   return (
@@ -9,7 +10,7 @@ function Home() {
       <Body />
       <Footer />
 
-      
+      <BackTop />
     </>
   );
 }

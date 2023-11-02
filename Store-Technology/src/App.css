@@ -204,3 +204,22 @@ header {
 .condition:hover {
   color: var(--main-color);
 }
+
+/* Back to top button */
+.back-to-top-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 10px;
+  background-color: var(--main-color);
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.back-to-top-button.visible {
+  opacity: 1;
+}

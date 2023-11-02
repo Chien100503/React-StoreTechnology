@@ -2,6 +2,10 @@ import "../App.css";
 import "../assets/css/body.css";
 import "../assets/js/home.js";
 import "./data.json";
+import { Swiper, SwiperSlide } from "swiper/react";
+import "swiper/css";
+import "swiper/css/navigation";
+import "swiper/css/pagination";
 
 function Body() {
   return (
@@ -13,24 +17,18 @@ function Body() {
             {/* hero-slider */}
             <div className="swiper hero-sl">
               <div className="swiper-wrapper">
-                <div className="swiper-slide hero-sl__item">
-                  <a href="#">
-                    <img src="https://bizweb.dktcdn.net/100/480/314/themes/899828/assets/slider_2.jpg?1697770786196" />
-                  </a>
-                </div>
-                {/* <div className="swiper-slide hero-sl__item">
-                  <a href="#">
-                    <img src="https://bizweb.dktcdn.net/100/480/314/themes/899828/assets/slider_2.jpg?1697770786196" />
-                  </a>
-                </div>
-                <div className="swiper-slide hero-sl__item">
-                  <a href="#">
-                    <img src="https://bizweb.dktcdn.net/100/480/314/themes/899828/assets/slider_2.jpg?1697770786196" />
-                  </a>
-                </div> */}
+                <Swiper navigation pagination={{ clickable: true }} autoplay={{ delay: 5000 }} scrollbar={{ draggable: true }}>
+                  <SwiperSlide className="slide-image">
+                    <img src="https://bizweb.dktcdn.net/100/480/314/themes/899828/assets/slider_2.jpg?1697770786196" alt="Slide 1" />
+                  </SwiperSlide>
+                  <SwiperSlide className="slide-image">
+                    <img src="https://tenten.vn/tin-tuc/wp-content/uploads/2021/05/big-sale-popup-4.png" alt="Slide 2" />
+                  </SwiperSlide>
+                  <SwiperSlide className="slide-image">
+                    <img src="https://cdn.dribbble.com/users/2056807/screenshots/10738012/media/54c1ba0e576b17f5d475d358952d65cb.gif" alt="Slide 3" />
+                  </SwiperSlide>
+                </Swiper>
               </div>
-              <div className="swiper-button-next" />
-              <div className="swiper-button-prev" />
             </div>
             {/* discount code */}
             <div className="discount">
@@ -138,7 +136,7 @@ function Body() {
           </section>
         </div>
       </div>
-      <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
       <script></script>
     </>
   );

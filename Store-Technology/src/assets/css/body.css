@@ -418,3 +418,12 @@
 .title-link:hover {
   color: var(--main-color);
 }
+
+/* Slider-iamge */
+.slide-image > img {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
